@@ -12,7 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>${java.verion}</maven.compiler.source>
 		<maven.compiler.target>${java.verion}</maven.compiler.target>
-		<spring.version>5.2.2.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<hibernate.version></hibernate.version>
 
 		<log4j.version>2.11.2</log4j.version>
